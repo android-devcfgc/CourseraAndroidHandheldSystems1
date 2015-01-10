@@ -1,2 +1,1 @@
-# CourseraAndroidHandheldSystems1
-Coursera Android Handheld Systems: Part 1
+Source Code for Android Course Coursera Android Handheld Systems: Part 1
